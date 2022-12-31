@@ -1,0 +1,15 @@
+D:\Desktop\Seminar9_C#\HWork\Task68\bin\Debug\net6.0\Task68.exe
+D:\Desktop\Seminar9_C#\HWork\Task68\bin\Debug\net6.0\Task68.deps.json
+D:\Desktop\Seminar9_C#\HWork\Task68\bin\Debug\net6.0\Task68.runtimeconfig.json
+D:\Desktop\Seminar9_C#\HWork\Task68\bin\Debug\net6.0\Task68.dll
+D:\Desktop\Seminar9_C#\HWork\Task68\bin\Debug\net6.0\Task68.pdb
+D:\Desktop\Seminar9_C#\HWork\Task68\obj\Debug\net6.0\Task68.csproj.AssemblyReference.cache
+D:\Desktop\Seminar9_C#\HWork\Task68\obj\Debug\net6.0\Task68.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Seminar9_C#\HWork\Task68\obj\Debug\net6.0\Task68.AssemblyInfoInputs.cache
+D:\Desktop\Seminar9_C#\HWork\Task68\obj\Debug\net6.0\Task68.AssemblyInfo.cs
+D:\Desktop\Seminar9_C#\HWork\Task68\obj\Debug\net6.0\Task68.csproj.CoreCompileInputs.cache
+D:\Desktop\Seminar9_C#\HWork\Task68\obj\Debug\net6.0\Task68.dll
+D:\Desktop\Seminar9_C#\HWork\Task68\obj\Debug\net6.0\refint\Task68.dll
+D:\Desktop\Seminar9_C#\HWork\Task68\obj\Debug\net6.0\Task68.pdb
+D:\Desktop\Seminar9_C#\HWork\Task68\obj\Debug\net6.0\Task68.genruntimeconfig.cache
+D:\Desktop\Seminar9_C#\HWork\Task68\obj\Debug\net6.0\ref\Task68.dll
